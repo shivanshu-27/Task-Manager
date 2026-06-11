@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+}
